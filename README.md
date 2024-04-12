@@ -24,7 +24,8 @@ sete novas características além do RGB natural da imagem.
 
 Os seguintes algoritmos foram selecionados para teste: LightGBM, MLP Classifier, Random Forest, Gradient Boosting, K-Means, 
 Naive-Bayes e Logistic-regression. A seleção dos melhores parâmetros para cada modelo foi feita através do método
-GridSearchCV. Os resultados para cada classificador podem ser observados na imagem e tabela abaixo.
+[GridSearchCV](https://scikit-learn.org/stable/modules/generated/sklearn.model_selection.GridSearchCV.html) da scikit-learn. 
+Os resultados para cada classificador podem ser observados na imagem e tabela abaixo.
 
 ![Predição dos modelos finais](https://github.com/migconforto/pavuna_ahs/blob/main/images/models_pred.png)
 

@@ -39,5 +39,5 @@ GridSearchCV. Os resultados para cada classificador podem ser observados na imag
 | K-Means | 53.3% | 15.0% | 48.7% | 23.0% | 54.2% |
 | Logistic-Regression | 85.4% | 47.5% | 17.0% | 25.1% | 51.0% |
 
-O código utilizado está disponível aqui  
+O código utilizado está disponível [aqui](https://github.com/migconforto/pavuna_ahs/blob/main/Pavuna_Classificacao_AHS.ipynb)  
 As imagens utilizadas no código então disponíveis clicando [aqui](https://drive.google.com/drive/folders/1O20llogxf8xGFMm2bxxibNr2YNwDA_2b?usp=sharing)

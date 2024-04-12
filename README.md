@@ -30,7 +30,7 @@ Os resultados para cada classificador podem ser observados na imagem e tabela ab
 ![Predição dos modelos finais](https://github.com/migconforto/pavuna_ahs/blob/main/images/models_pred.png)
 
 
-| Modelo | Accurracy | Precision | Recall | F1-Score | IoU |
+| Model | Accurracy | Precision | Recall | F1-Score | IoU |
 |---|---|---|---|---|---|
 | Gradient Boost | 93.5% | 80.6% | 71.6% | 75.8% | 66.4% |
 | Light GBM | 87.2% | 53.6% | 76.3% | 63.0% | 62.3% |

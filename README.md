@@ -9,4 +9,4 @@ foi o índice de forma espacial (SSI) à imagem original, totalizando sete novas
 
 Os seguintes algoritmos foram selecionados para teste: LightGBM, MLP Classifier, Random Forest, Gradient Boosting, K-Means, Naive-Bayes e Logistic-regression.
 
-![Predição dos modelos finais](https://github.com/migconforto/pavuna_ahs/blob/main/images/Pred_models.jpeg)
+![Predição dos modelos finais](https://github.com/migconforto/pavuna_ahs/blob/main/images/pred_models2.pdf)
